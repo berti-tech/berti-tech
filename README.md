@@ -10,7 +10,7 @@
 
 ### Let's Connect
 * **Email:** bharat18.tech@gmail.com
-* **LinkedIn:** Bharat Rajora(https://www.linkedin.com/in/bharat-rajora/)
+* **LinkedIn:** [Bharat Rajora](https://www.linkedin.com/in/bharat-rajora/)
 
 Feel free to reach out for collaborations or ping me for a coffee ☕
 
