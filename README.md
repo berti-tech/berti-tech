@@ -1,4 +1,6 @@
-# Hey there, I'm Bharat 👋
+![soft](https://capsule-render.vercel.app/api?type=soft&color=0D1117&text=Bharat%20Rajora&textBg=false&fontSize=40&fontColor=FFFFFF&fontAlign=50&animation=twinkling)
+
+# Hi, I'm Bharat 👋
 
 ### **What I'm All About**
 🚀 Automation enthusiast leveraging Playwright to deliver flawless web testing experiences. Passionate about web technologies, with a particular fondness for JavaScript ecosystems.
