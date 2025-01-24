@@ -2,7 +2,7 @@
 
 # Yo! 👋
 
-### **What I'm All About**
+### **What I'm About**
 🚀 Automation enthusiast leveraging Playwright to deliver flawless web testing experiences. Passionate about web technologies, with a particular fondness for JavaScript ecosystems.
 
 🔍 Exploring new AI products and pushing boundaries. Currently, diving deep into crafting aesthetic user interfaces while ensuring their robustness through automation testing with Playwright.
